@@ -1,0 +1,161 @@
+.features-one{
+    background-color: #F5F5F5;
+}
+
+.feature-one-container{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 150px;
+}
+
+.feature-one-text-container{
+    padding-right: 100px;
+}
+
+.tab-container{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding-right: 100px;
+    padding-bottom: 110px;
+}
+
+.tab{
+    width: 110px;
+    height: 110px;
+    text-align: center;
+    background-color:#323232 ;
+    font-size: 15px;
+    line-height: 20px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Open Sans";
+    padding-top: 40%;
+    
+
+}
+
+.tab:first-of-type{
+    background-color: #FE8A38;
+}
+
+.feature-one-title{
+    font-size: 20px;
+    color: #000000;
+    font-weight: 700;
+    font-family: "Open Sans";
+    padding-bottom: 55px;
+}
+
+.feature-one-paragraph{
+    font-size: 14px;
+    line-height: 20px;
+    color: #86878b;
+    font-weight: 400;
+    font-family: "Open Sans";
+    padding-bottom: 55px;
+}
+
+.feature-btn{
+    font-size: 15px;
+    line-height: 20px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: "Open Sans";
+    background-color: #FE8A38;
+    border: none;
+    padding: 10px 30px;
+}
+
+.feature-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.feature-paragraph{
+    font-size: 14px;
+    line-height: 20px;
+    color: #86878b;
+    font-weight: 400;
+    font-family: "Open Sans";
+    padding-bottom: 30px;
+    padding-top: 25px;
+}
+
+.feature-paragraph-inline{
+    font-size: 14px;
+    line-height: 20px;
+    color: #86878b;
+    font-weight: 400;
+    font-family: "Open Sans";
+ 
+}
+
+.sub-title{
+    font-size: 14px;
+    line-height: 17px;
+    color: #212121;
+    font-weight: 600;
+    font-family: "Open Sans";
+    display: inline;
+   
+   
+}
+
+.cloud{
+position: relative;
+display: inline;
+width: 50px;
+
+
+}
+.circle{
+    position: absolute;
+    display: inline;
+  top: -7px;
+  left: -5px;
+    
+}
+
+.inline-container{
+    display: inline;
+   
+   
+}
+
+.cloud-icon{
+    color: #FE8A38;
+    font-size: 16px;
+    display: inline;
+    padding-top: 15px;
+    padding-bottom: 1px;
+    padding-left: 5px;
+    padding-right: 1px;
+}
+
+
+.feature-three{
+    padding-top: 100px;
+}
+
+.feature-title{
+    padding-bottom: 25px;
+    font-size: 20px;
+    line-height: 43px;
+    color: #212121;
+    font-weight: 700;
+    font-family: "Open Sans";
+
+}
+
+.cloud-container{
+    display: flex;
+    gap: 15px;
+    align-items: center;
+}
+
+#inline-text{
+    display: inline;
+}
+

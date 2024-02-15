@@ -1,0 +1,75 @@
+.our-process{
+    padding-top: 100px;
+}
+
+.process-title{
+    font-size: 36px;
+    line-height: 43px;
+    color: #212121;
+    font-weight: 400;
+    font-family: "Raleway";
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.orange-line{
+   margin: 0 auto;
+   padding-bottom: 30px;
+}
+
+.sub-text{
+    font-size: 14px;
+line-height: 20px;
+color: #86878b;
+font-weight: 400;
+font-family: "Open Sans";
+text-align: center;
+padding-bottom: 80px;
+}
+
+.process-content-container{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+
+.content-title{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #333333;
+    font-weight: 700;
+    font-family: "Open Sans";
+    text-align: center;
+}
+
+.content-paragraph{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 14px;
+    line-height: 20px;
+    color: #86878b;
+    font-weight: 400;
+    font-family: "Open Sans";
+    text-align: center;
+    padding-bottom: 140px;
+}
+
+.icon-container{
+    position: relative;
+    width: fit-content;
+    margin: auto;
+}
+
+.icon{
+    color: #FE8A38;
+    font-size: 24px;
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+    padding: 5px;
+}
+.circle-three{
+    width: 55px;
+}

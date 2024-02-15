@@ -1,0 +1,38 @@
+.custom{
+    background-image: url(../images/backgraund.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.custom-title{
+    font-size: 36px;
+color: #ffffff;
+font-family: "Raleway";
+text-align: center;
+padding-top: 90px;
+padding-bottom: 20px;
+}
+
+.white-line{
+    width: 80px;
+    height: 3px;
+    border: none;
+    background-color: #ffffff;
+}
+
+.custom-text{
+    opacity: 0.800;
+font-size: 16px;
+color: #ffffff;
+font-weight: 300;
+font-family: "Raleway";
+padding-top: 30px;
+text-align: center;
+}
+
+.btn-wrapper{
+   width: fit-content;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 60px;
+}

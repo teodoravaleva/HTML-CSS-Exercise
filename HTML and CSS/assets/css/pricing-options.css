@@ -1,0 +1,96 @@
+.pricing-options{
+    background-color: #F5F5F5;
+}
+
+.pricing-content-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    align-self: flex-end;
+
+}
+
+.content-pricing{
+    background-color: #333333;
+    color: white;
+    width: 340px;
+    align-self: flex-end;
+}
+
+.pricing-title-content{
+    font-size: 20px;
+line-height: 24px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Open Sans";
+text-align: center;
+padding-top: 15px;
+padding-bottom: 15px;
+}
+
+.price{
+    text-align: center;
+    font-size: 24px;
+line-height: 24px;
+color: #ffffff;
+font-weight: 700;
+font-family: "Raleway";
+text-align: center;
+padding-bottom: 20px;
+padding-top: 20px;
+}
+
+.num{
+    font-size: 70px;
+    color: white;
+}
+
+.sub-paragraph{
+    opacity: 0.502;
+font-size: 14px;
+line-height: 24px;
+color: #ffffff;
+font-weight: 600;
+font-family: "Open Sans";
+text-align: center;
+padding-bottom: 20px;
+}
+
+.orange{
+    text-align: center;
+    background-color: #FE8A38;
+    min-height: 10px;
+    
+}
+
+.special{
+    padding-top: 10px;
+    padding-bottom: 10px
+}
+
+.professional .pricing-title-content{
+  padding-bottom: 30px;
+  padding-top: 20px;
+}
+
+.pricing-item{
+    font-size: 14px;
+line-height: 24px;
+text-transform: uppercase;
+color: #86878b;
+font-weight: 400;
+font-family: "Open Sans";
+text-align: center;
+padding-top: 10px;
+
+}
+
+.content-pricing-container{
+    align-self: flex-end;
+    padding-bottom: 150px;
+}
+#line{
+    width: 340px;
+    height: 2px;
+}

@@ -1,0 +1,34 @@
+.brand-bar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social-media-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+
+.brand-bar-paragraph{
+    font-size: 14px;
+    line-height: 20px;
+    color: #86878b;
+    font-weight: 400;
+    font-family: "Open Sans";
+    padding-bottom: 10px;
+}
+
+.brand-bar-title{
+    font-size: 20px;
+    color: #333333;
+    font-weight: 700;
+    font-family: "Open Sans";
+    padding-top: 20px;
+}
+
+.social-media-icon{
+    font-size: 36px;
+    color: #CCCCCC;
+}
